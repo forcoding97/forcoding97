@@ -3,6 +3,7 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slight-snow&amp;layout=compact&langs_count=5" style="max-width: 100%;" />
 </p>
 <br />
+<br />
 <p align="center">  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -21,3 +22,5 @@
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+<br />
+<br />
