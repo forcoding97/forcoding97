@@ -27,6 +27,6 @@
 <br />
 <br />
 <p align="center">  
-  velog.io | https://velog.io/@slight-snow
+  velog.io &nbsp;|&nbsp; https://velog.io/@slight-snow
 </p>
 <br />
