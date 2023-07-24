@@ -24,3 +24,8 @@
 </p>
 <br />
 <br />
+<p align="center">  
+  velog.io | https://velog.io/@slight-snow
+</p>
+<br />
+<br />
